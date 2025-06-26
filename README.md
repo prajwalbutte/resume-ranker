@@ -73,8 +73,8 @@ My goal is to get a good placement by final year with a solid project portfolio.
 
 ## 🌐 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
-💻 [GitHub](https://github.com/YOUR_USERNAME)
+🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-butte-441485330)
+💻 [GitHub](https://github.com/prajwalbutte)
 
 ---
 
