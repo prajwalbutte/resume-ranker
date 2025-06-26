@@ -1,4 +1,4 @@
-print("Resume Ranker - Applicant Tracking System Python Project\n\n")
+
 
 #Input
 job_description = input("Paste Job Description:\n").lower()
