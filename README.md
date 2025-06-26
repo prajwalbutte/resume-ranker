@@ -49,8 +49,8 @@ It will show how well your resume fits that job based on keyword matching.
 ## 📊 Sample Output
 
 ```
-Your resume match score is: 72%
-✅ Good Match – Your resume is quite relevant to this job!
+Your resume match score is: 75%
+✅ Strong match,Your resume files the well.
 ```
 
 ---
